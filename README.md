@@ -1,4 +1,4 @@
-# Luban 2040 v1
+# Luban 2040 v1 🍃🧑🏻‍💻
 ### Advanced CVE & Exploit Finder
 **Author:** m.alfahdi  
 **Purpose:** Authorized Bug Bounty / Penetration Testing ONLY
@@ -17,7 +17,7 @@ Luban 2040 v1 is an advanced CVE finder that:
 
 ---
 
-## Installation
+## Installation 🖥️💻
 
 ```bash
 # 1. Install dependencies
@@ -37,7 +37,7 @@ nano config.json
 
 ---
 
-## Usage
+## Usage ⚙️
 
 ```
 python luban2040.py [options]
@@ -110,7 +110,7 @@ python luban2040.py -l All_IPs.txt -e -cvss 7 -t 20 -v
 
 ---
 
-## Disclaimer
+## Disclaimer ⚠️
 
 This tool is intended **only for authorized security testing**, bug bounty programs, and vulnerability disclosure. The author is not responsible for any unauthorized or illegal use.
 
