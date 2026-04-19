@@ -100,7 +100,7 @@ python luban2040.py -l All_IPs.txt -e -cvss 7 -t 20 -v
 
 ---
 
-## Notes
+## Notes 👇🏻 
 
 - `-e` flag re-checks if the IP truly belongs to your target (reduces false positives)
 - InternetDB database is updated **weekly** — verify findings on Shodan directly
