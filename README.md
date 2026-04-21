@@ -23,7 +23,7 @@ Luban 2040 v1 is an advanced CVE finder that:
 # 1. Install dependencies
 pip install -r requirements.txt --break-system-packages
 
-# 2. Edit config.json with your Shodan credentials
+# 2. Edit config.json 
 nano config.json
 ```
 
