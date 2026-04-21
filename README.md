@@ -1,4 +1,4 @@
-# Luban 2040 v1
+# Luban 2040 v1 🧑🏻‍💻🍃
 ### Advanced CVE & Exploit Finder
 **Author:** m.alfahdi  
 **Purpose:** Authorized Bug Bounty / Penetration Testing ONLY
